@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="beaa934d-249a-43ac-bc3a-972d9a9939ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/config/JwtService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/config/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/config/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.security.config" />
       <recent name="com.example.security.user" />
     </key>
   </component>
@@ -87,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699610558008</updated>
       <workItem from="1699610559448" duration="6795000" />
-      <workItem from="1699669225014" duration="2048000" />
+      <workItem from="1699669225014" duration="2741000" />
     </task>
     <servers />
   </component>
